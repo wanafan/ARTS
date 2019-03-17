@@ -1,9 +1,1 @@
-one program
-two
-three
-<<<<<<< HEAD
-four 
-=======
-four
-five branch two
->>>>>>> two
+one day
